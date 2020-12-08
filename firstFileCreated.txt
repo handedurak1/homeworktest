@@ -1,1 +1,3 @@
 This is the first file created ever.
+
+This is so excited to use git in VS Code..!!
